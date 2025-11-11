@@ -6,7 +6,7 @@ import{a as f,S as h,i as p}from"./assets/vendor-MgecxatS.js";(function(){const 
             <div class="desc-container">
               <ul class="desc-list">
               <li class="icons"><svg class="icon" width="24" height="24">
-            <use href="${a}#icon-left"></use>
+            <use href="${a}#icon-like"></use>
           </svg><span>${t}</span></li>
               <li class="icons"><svg class="icon" width="24" height="24">
             <use href="${a}#icon-views"></use>
