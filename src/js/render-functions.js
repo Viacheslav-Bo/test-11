@@ -35,7 +35,7 @@ export function createGallery(images) {
             <div class="desc-container">
               <ul class="desc-list">
               <li class="icons"><svg class="icon" width="24" height="24">
-            <use href="${sprite}#icon-left"></use>
+            <use href="${sprite}#icon-like"></use>
           </svg><span>${likes}</span></li>
               <li class="icons"><svg class="icon" width="24" height="24">
             <use href="${sprite}#icon-views"></use>
